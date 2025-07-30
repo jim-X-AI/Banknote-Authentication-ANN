@@ -36,8 +36,11 @@ Source: [UCI Banknote Dataset](https://archive.ics.uci.edu/ml/datasets/banknote+
    ```bash
    git clone https://github.com/yourusername/Banknote-Authentication-ANN.git
 2. Install dependencies:
-```bash
-pip install numpy pandas tensorflow scikit-learn
+  ```bash
+  pip install numpy pandas tensorflow scikit-learn
 3. Run the notebook:
-```bash
-jupyter notebook Banknote_Authentication_ANN.ipynb
+  ```bash
+  jupyter notebook Banknote_Authentication_ANN.ipynb
+
+## Future Improvements
+
